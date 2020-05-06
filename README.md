@@ -4,7 +4,7 @@ Xin Wang*, Teng Xiao, Yoni Kasten
 
 ## Properties:
 
-The code reconstruct images' exterior poses by using pairwise essential matrices and tie points.
+The code reconstructs images' exterior poses by using pairwise essential matrices and tie points.
 our code is only licensed for noncommerical research use, you can cite:
 
 
