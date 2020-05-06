@@ -24,6 +24,7 @@ To be appear In Proceedings{
 
    We only computer exterior parameters, you can run run_building.m file on your matlab package, and the result will be visually shown and saved as a txt file.
    Note that, the input are generate by ProcessScript.m, one can generated the necessaries from OPENMVG, which is also used for refining our result.
+   The ground truth exterior parameters of fountaion Herzjezu castle are provided by the corresponding publisher 
 
 ## Acknowledgement:
 
